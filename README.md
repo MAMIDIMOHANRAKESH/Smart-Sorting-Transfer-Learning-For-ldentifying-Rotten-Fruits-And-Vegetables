@@ -1,0 +1,2 @@
+# Smart-Sorting-Transfer-Learning-For-ldentifying-Rotten-Fruits-And-Vegetables
+Fresh fruits and vegetables account for 50% of the overall european union food waste. This fact served us as the main motivational driver to build our project upon. With fruit_hero we wanted to utilize the skills and technologies we learned during our masters to contribute a small solution to the big problem of todays society.
